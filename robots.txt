@@ -1,0 +1,6 @@
+User-agent: *
+
+Sitemap: https://ayurcure.co.in/sitemap.xml
+
+Disallow: /contact.php
+Disallow: /contactus.html

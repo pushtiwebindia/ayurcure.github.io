@@ -1,0 +1,101 @@
+.jqueryslidemenu1{
+	font: bold 12px Verdana;
+	background-image:url(images/menu.jpg);
+	width: 100%;
+	border-top-width: 0.5px;
+	border-top-style: solid;
+	border-top-color: #FB5606;
+	border-bottom-width: 0.5px;
+	border-bottom-style: solid;
+	border-bottom-color: #FB5606;
+}
+
+.jqueryslidemenu1 ul{
+margin: 0;
+padding: 0;
+list-style-type: none;
+}
+
+/*Top level list items*/
+.jqueryslidemenu1 ul li{
+position: relative;
+display: inline;
+float: left;
+}
+
+/*Top level menu link items style*/
+.jqueryslidemenu1 ul li a{
+display: block;
+
+background-image:url(images/shade.gif); /*background of tabs (default state)*/
+color: #FD5402;
+padding: 8px 8px;
+border-right: 1px solid #FF6633;
+color:#FF6633;
+text-decoration: none;
+}
+
+* html .jqueryslidemenu1 ul li a{ /*IE6 hack to get sub menu links to behave correctly*/
+display: inline-block;
+}
+
+.jqueryslidemenu1 ul li a:link, .jqueryslidemenu1 ul li a:visited{
+color: white;
+}
+
+.jqueryslidemenu1 ul li a:hover{
+background:#ffcc00;/*tab link background during hover state*/
+color: #000000;
+}
+	
+/*1st sub level menu*/
+.jqueryslidemenu1 ul li ul{
+position: absolute;
+left: 0;
+display: block;
+visibility: hidden;
+}
+
+/*Sub level menu list items (undo style from Top level List Items)*/
+.jqueryslidemenu1 ul li ul li{
+display: list-item;
+float: none;
+}
+
+/*All subsequent sub menu levels vertical offset after 1st level sub menu */
+.jqueryslidemenu1 ul li ul li ul{
+top: 0;
+}
+
+/* Sub level menu links style */
+.jqueryslidemenu1 ul li ul li a{
+font: normal 13px Verdana;
+width: 160px; /*width of sub menus*/
+padding: 5px;
+margin: 0;
+border-top-width: 0;
+border-bottom: 1px solid gray;
+}
+
+.jqueryslidemenu1z ul li ul li a:hover{ /*sub menus hover style*/
+background: #ffcc00;
+color: black;
+border-top: 1px solid #FF6633;
+}
+
+/* ######### CSS classes applied to down and right arrow images  ######### */
+
+.downarrowclass{
+position: absolute;
+top: 12px;
+right: 7px;
+}
+
+.rightarrowclass{
+position: absolute;
+top: 6px;
+right: 5px;
+}
+
+.123{z-index:1;
+background-color:#fff;}

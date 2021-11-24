@@ -1,0 +1,29 @@
+/* CSS Document */
+/*Example CSS for the two demo scrollers*/
+
+#pscroller1{
+width: 165px;
+height: 110px;
+border:none;
+padding: 10px;
+background:none;
+text-align:justify;
+
+}
+
+#pscroller2{
+width: 150px;
+height: 80px;
+border: none;
+padding: 10px;
+color:#FFFFFF;
+}
+
+#pscroller2 a{
+text-decoration: none;
+}
+
+.someclass{ //class to apply to your scroller(s) if desired
+}
+.style6 {color: #FFFFFF}
+.style7 {color: #316AC5}

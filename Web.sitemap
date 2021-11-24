@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0">
+  <siteMapNode title="Ayurcure, ayurvedic clinics in mumbai, ayurveda treatment in Mumbai, 
+ayurvedic treatment for skin diseases, Slimming Centre, Bridal Package, Facials, 
+Hair Treatments, Ayurvedic Treatment for AIDS, Diabetes, cancer, Mumbai" description="Ayurcure, ayurvedic clinics in mumbai, ayurveda treatment in Mumbai, 
+ayurvedic treatment for skin diseases, Slimming Centre, Bridal Package, Facials, 
+Hair Treatments, Ayurvedic Treatment for AIDS, Diabetes, cancer, Mumbai" url="~/">
+    <siteMapNode title="aboutus" description="aboutus" url="~/aboutus.html"/>
+    <siteMapNode title="ad1" description="ad1" url="~/ad1.html"/>
+    <siteMapNode title="ad10" description="ad10" url="~/ad10.html"/>
+    <siteMapNode title="ad2" description="ad2" url="~/ad2.html"/>
+    <siteMapNode title="ad3" description="ad3" url="~/ad3.html"/>
+    <siteMapNode title="ad4" description="ad4" url="~/ad4.html"/>
+    <siteMapNode title="ad5" description="ad5" url="~/ad5.html"/>
+    <siteMapNode title="ad6" description="ad6" url="~/ad6.html"/>
+    <siteMapNode title="ad7" description="ad7" url="~/ad7.html"/>
+    <siteMapNode title="ad8" description="ad8" url="~/ad8.html"/>
+    <siteMapNode title="ad9" description="ad9" url="~/ad9.html"/>
+    <siteMapNode title="AVN Avascular necrosis of femoral head" description="AVN Avascular necrosis of femoral head" url="~/AVN-Avascular-necrosis-of-femoral-head.html"/>
+    <siteMapNode title="ayurvedic treatment for AIDS HIV" description="ayurvedic treatment for AIDS HIV" url="~/ayurvedic-treatment-for-AIDS-HIV.html"/>
+    <siteMapNode title="ayurvedic treatment for thyroid" description="ayurvedic treatment for thyroid" url="~/ayurvedic-treatment-for-thyroid.html"/>
+    <siteMapNode title="ayurvedic treatment for thyroid 2" description="ayurvedic treatment for thyroid 2" url="~/ayurvedic-treatment-for-thyroid-2.html"/>
+    <siteMapNode title="contactus" description="contactus" url="~/contactus.html"/>
+    <siteMapNode title="news" description="news" url="~/news.html"/>
+    <siteMapNode title="service" description="service" url="~/service.html"/>
+    <siteMapNode title="treatment" description="treatment" url="~/treatment.html"/>
+    <siteMapNode title="treatment1" description="treatment1" url="~/treatment1.html"/>
+    <siteMapNode title="treatment10" description="treatment10" url="~/treatment10.html"/>
+    <siteMapNode title="treatment11" description="treatment11" url="~/treatment11.html"/>
+    <siteMapNode title="treatment12" description="treatment12" url="~/treatment12.html"/>
+    <siteMapNode title="treatment13" description="treatment13" url="~/treatment13.html"/>
+    <siteMapNode title="treatment14" description="treatment14" url="~/treatment14.html"/>
+    <siteMapNode title="treatment15" description="treatment15" url="~/treatment15.html"/>
+    <siteMapNode title="treatment16" description="treatment16" url="~/treatment16.html"/>
+    <siteMapNode title="treatment17" description="treatment17" url="~/treatment17.html"/>
+    <siteMapNode title="treatment18" description="treatment18" url="~/treatment18.html"/>
+    <siteMapNode title="treatment19" description="treatment19" url="~/treatment19.html"/>
+    <siteMapNode title="treatment2" description="treatment2" url="~/treatment2.html"/>
+    <siteMapNode title="treatment20" description="treatment20" url="~/treatment20.html"/>
+    <siteMapNode title="treatment21" description="treatment21" url="~/treatment21.html"/>
+    <siteMapNode title="treatment3" description="treatment3" url="~/treatment3.html"/>
+    <siteMapNode title="treatment4" description="treatment4" url="~/treatment4.html"/>
+    <siteMapNode title="treatment5" description="treatment5" url="~/treatment5.html"/>
+    <siteMapNode title="treatment6" description="treatment6" url="~/treatment6.html"/>
+    <siteMapNode title="treatment7" description="treatment7" url="~/treatment7.html"/>
+    <siteMapNode title="treatment8" description="treatment8" url="~/treatment8.html"/>
+    <siteMapNode title="treatment9" description="treatment9" url="~/treatment9.html"/>
+  </siteMapNode>
+</siteMap>
